@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cipher
+comment1.params=theinput
+comment1.target=Cipher(java.lang.String)
+comment2.params=theinput
+comment2.target=void\ getInput(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getInput()
+comment4.params=key
+comment4.target=java.lang.String\ encrypt(java.lang.String)
+numComments=5
